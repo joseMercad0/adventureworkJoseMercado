@@ -1,0 +1,3 @@
+Changed database context to 'adventureworks'.
+Msg 245, Level 16, State 1, Server 058273ebdcc9, Line 1
+Conversion failed when converting the varchar value ': ' to data type int.

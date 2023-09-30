@@ -1,0 +1,2 @@
+Msg 147, Level 15, State 1, Server 058273ebdcc9, Line 3
+An aggregate may not appear in the WHERE clause unless it is in a subquery contained in a HAVING clause or a select list, and the column being aggregated is an outer reference.

@@ -1,0 +1,11 @@
+Changed database context to 'adventureworks'.
+Products    Categories  AveragePrice         
+----------- ----------- ---------------------
+        295          37              744.5952
+
+(1 rows affected)
+BikeModels  AveragePrice         
+----------- ---------------------
+         97             1586.7370
+
+(1 rows affected)

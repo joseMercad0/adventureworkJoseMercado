@@ -1,0 +1,9 @@
+Changed database context to 'adventureworks'.
+Name                                               NumericSize
+-------------------------------------------------- -----------
+HL Road Frame - Black, 58                                   58
+HL Road Frame - Red, 58                                     58
+Sport-100 Helmet, Red                                     NULL
+Sport-100 Helmet, Black                                   NULL
+Msg 245, Level 16, State 1, Server 058273ebdcc9, Line 1
+Conversion failed when converting the nvarchar value 'M' to data type int.

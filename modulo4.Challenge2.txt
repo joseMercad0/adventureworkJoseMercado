@@ -1,0 +1,208 @@
+Changed database context to 'adventureworks'.
+Name                                               TotalRevenue                            
+-------------------------------------------------- ----------------------------------------
+Touring-1000 Blue, 60                                                          37191.492000
+Mountain-200 Black, 42                                                         37178.838000
+Road-350-W Yellow, 48                                                          36486.235500
+Mountain-200 Black, 38                                                         35801.844000
+Touring-1000 Yellow, 60                                                        23413.474656
+Touring-1000 Blue, 50                                                          22887.072000
+Mountain-200 Silver, 42                                                        20879.910000
+Road-350-W Yellow, 40                                                          20411.880000
+Mountain-200 Black, 46                                                         19277.916000
+Road-350-W Yellow, 42                                                          18692.519308
+Mountain-200 Silver, 46                                                        18095.922000
+Road-250 Black, 44                                                             17592.120000
+Road-250 Black, 48                                                             17592.120000
+Touring-1000 Yellow, 46                                                        17165.304000
+Touring-1000 Blue, 46                                                          17165.304000
+Mountain-200 Silver, 38                                                        15311.934000
+Touring-2000 Blue, 54                                                          13120.380000
+HL Mountain Frame - Silver, 38                                                 13099.200000
+Road-550-W Yellow, 38                                                          12773.586000
+Road-250 Black, 52                                                             11728.080000
+Touring-3000 Blue, 50                                                          10244.430000
+HL Mountain Frame - Black, 42                                                   9717.120000
+Touring-3000 Yellow, 62                                                         8650.159140
+Touring-1000 Blue, 54                                                           8582.652000
+HL Mountain Frame - Silver, 46                                                  8187.000000
+Touring-3000 Yellow, 44                                                         8017.380000
+Touring-2000 Blue, 60                                                           7289.100000
+HL Touring Frame - Yellow, 60                                                   7228.152000
+Touring-1000 Yellow, 50                                                         7152.210000
+Road-750 Black, 48                                                              6803.874000
+Touring-3000 Blue, 54                                                           6681.150000
+Touring-2000 Blue, 46                                                           6560.190000
+Touring-2000 Blue, 50                                                           6560.190000
+Touring-1000 Yellow, 54                                                         5721.768000
+HL Mountain Frame - Black, 38                                                   5668.320000
+Road-550-W Yellow, 48                                                           5378.352000
+Road-550-W Yellow, 40                                                           5378.352000
+Road-750 Black, 52                                                              5183.904000
+HL Road Frame - Black, 44                                                       5153.400000
+Road-350-W Yellow, 44                                                           5102.970000
+HL Mountain Frame - Silver, 42                                                  4912.200000
+Road-750 Black, 58                                                              4859.910000
+Road-250 Black, 58                                                              4398.030000
+Road-250 Red, 58                                                                4398.030000
+ML Road Frame-W - Yellow, 44                                                    4282.776000
+ML Road Frame-W - Yellow, 48                                                    4282.776000
+HL Touring Frame - Blue, 54                                                     4216.422000
+Mountain-400-W Silver, 40                                                       4155.246000
+Mountain-400-W Silver, 46                                                       4155.246000
+Touring-3000 Yellow, 50                                                         4008.690000
+Mountain-500 Black, 48                                                          3887.928000
+Road-550-W Yellow, 42                                                           3361.470000
+Classic Vest, S                                                                 3014.503750
+HL Touring Frame - Yellow, 54                                                   3011.730000
+HL Crankset                                                                     2915.928000
+Touring-3000 Yellow, 54                                                         2672.460000
+Touring-3000 Blue, 58                                                           2672.460000
+ML Mountain Frame-W - Silver, 40                                                2621.448000
+HL Road Frame - Red, 44                                                         2576.700000
+HL Road Frame - Red, 62                                                         2576.700000
+ML Mountain Frame-W - Silver, 42                                                2402.994000
+Mountain-400-W Silver, 42                                                       2308.470000
+Hitch Rack - 4-Bike                                                             2304.000000
+Touring-3000 Blue, 44                                                           2227.050000
+LL Road Frame - Black, 52                                                       2225.652000
+Road-550-W Yellow, 44                                                           2016.882000
+Women's Mountain Shorts, S                                                      1955.996532
+Mountain-400-W Silver, 38                                                       1846.776000
+LL Road Frame - Black, 58                                                       1820.988000
+HL Touring Frame - Blue, 60                                                     1807.038000
+LL Mountain Frame - Black, 44                                                   1798.488000
+Short-Sleeve Classic Jersey, XL                                                 1783.694625
+Hydration Pack - 70 oz.                                                         1649.700000
+Mountain-500 Black, 44                                                          1619.970000
+Short-Sleeve Classic Jersey, L                                                  1566.379476
+Long-Sleeve Logo Jersey, L                                                      1463.832175
+ML Road Frame-W - Yellow, 38                                                    1427.592000
+LL Mountain Frame - Silver, 40                                                  1425.870000
+LL Mountain Frame - Silver, 44                                                  1425.870000
+LL Mountain Frame - Black, 42                                                   1348.866000
+Touring-3000 Blue, 62                                                           1336.230000
+Touring-3000 Yellow, 58                                                         1336.230000
+Classic Vest, M                                                                 1295.400000
+LL Mountain Frame - Silver, 42                                                  1267.440000
+Mountain-500 Silver, 52                                                         1152.579600
+Women's Mountain Shorts, L                                                      1133.838000
+HL Bottom Bracket                                                               1093.410000
+LL Crankset                                                                     1052.940000
+Sport-100 Helmet, Black                                                         1031.995060
+Short-Sleeve Classic Jersey, S                                                  1004.214000
+Mountain-500 Black, 52                                                           971.982000
+Mountain-500 Black, 40                                                           971.982000
+Mountain-500 Black, 42                                                           971.982000
+Road-750 Black, 44                                                               971.982000
+Mountain-500 Silver, 42                                                          813.585600
+Long-Sleeve Logo Jersey, M                                                       779.844000
+Front Brakes                                                                     766.800000
+Sport-100 Helmet, Blue                                                           757.096125
+Mountain-500 Silver, 40                                                          745.786800
+Sport-100 Helmet, Red                                                            734.790000
+Front Derailleur                                                                 713.622000
+ML Road Pedal                                                                    707.826000
+HL Road Pedal                                                                    680.316000
+HL Touring Frame - Blue, 50                                                      602.346000
+LL Touring Frame - Blue, 54                                                      600.156000
+LL Touring Frame - Yellow, 44                                                    600.156000
+LL Mountain Frame - Black, 48                                                    599.496000
+HL Mountain Pedal                                                                583.128000
+Rear Derailleur                                                                  583.008000
+LL Road Pedal                                                                    510.174000
+LL Mountain Frame - Silver, 52                                                   475.290000
+ML Mountain Handlebars                                                           445.824000
+Long-Sleeve Logo Jersey, XL                                                      419.916000
+Mountain-500 Silver, 48                                                          406.792800
+LL Touring Frame - Yellow, 50                                                    400.104000
+LL Touring Frame - Blue, 50                                                      400.104000
+Half-Finger Gloves, M                                                            382.044000
+ML Mountain Seat/Saddle                                                          375.744000
+LL Mountain Pedal                                                                291.528000
+HL Road Handlebars                                                               288.648000
+Half-Finger Gloves, L                                                            279.186000
+AWC Logo Cap                                                                     277.363076
+Mountain-500 Silver, 44                                                          271.195200
+Racing Socks, L                                                                  264.298808
+HL Touring Seat/Saddle                                                           252.672000
+Bike Wash - Dissolver                                                            251.875875
+LL Bottom Bracket                                                                226.758000
+ML Mountain Pedal                                                                223.524000
+HL Mountain Seat/Saddle                                                          221.088000
+HL Mountain Handlebars                                                           216.486000
+Women's Mountain Shorts, M                                                       209.970000
+LL Touring Frame - Yellow, 62                                                    200.052000
+LL Mountain Handlebars                                                           187.068000
+Half-Finger Gloves, S                                                            176.328000
+Water Bottle - 30 oz.                                                            158.206952
+LL Mountain Seat/Saddle                                                           97.632000
+Chain                                                                             97.152000
+Racing Socks, M                                                                   80.910000
+Rear Brakes                                                                       63.900000
+HL Road Seat/Saddle                                                               63.168000
+HL Touring Handlebars                                                             54.942000
+Patch Kit/8 Patches                                                               27.480000
+
+(142 rows affected)
+Name                                               TotalRevenue                            
+-------------------------------------------------- ----------------------------------------
+Touring-1000 Blue, 60                                                          37191.492000
+Mountain-200 Black, 42                                                         37178.838000
+Road-350-W Yellow, 48                                                          36486.235500
+Mountain-200 Black, 38                                                         35801.844000
+Touring-1000 Yellow, 60                                                        23413.474656
+Touring-1000 Blue, 50                                                          22887.072000
+Mountain-200 Silver, 42                                                        20879.910000
+Road-350-W Yellow, 40                                                          20411.880000
+Mountain-200 Black, 46                                                         19277.916000
+Road-350-W Yellow, 42                                                          18692.519308
+Mountain-200 Silver, 46                                                        18095.922000
+Road-250 Black, 44                                                             17592.120000
+Road-250 Black, 48                                                             17592.120000
+Touring-1000 Blue, 46                                                          17165.304000
+Touring-1000 Yellow, 46                                                        17165.304000
+Mountain-200 Silver, 38                                                        15311.934000
+Touring-2000 Blue, 54                                                          13120.380000
+HL Mountain Frame - Silver, 38                                                 13099.200000
+Road-550-W Yellow, 38                                                          12773.586000
+Road-250 Black, 52                                                             11728.080000
+HL Mountain Frame - Black, 42                                                   9717.120000
+Touring-1000 Blue, 54                                                           8582.652000
+HL Mountain Frame - Silver, 46                                                  8187.000000
+Touring-2000 Blue, 60                                                           7289.100000
+HL Touring Frame - Yellow, 60                                                   7228.152000
+Touring-1000 Yellow, 50                                                         7152.210000
+Touring-2000 Blue, 46                                                           6560.190000
+Touring-2000 Blue, 50                                                           6560.190000
+Touring-1000 Yellow, 54                                                         5721.768000
+HL Mountain Frame - Black, 38                                                   5668.320000
+Road-550-W Yellow, 48                                                           5378.352000
+Road-550-W Yellow, 40                                                           5378.352000
+HL Road Frame - Black, 44                                                       5153.400000
+Road-350-W Yellow, 44                                                           5102.970000
+HL Mountain Frame - Silver, 42                                                  4912.200000
+Road-250 Black, 58                                                              4398.030000
+Road-250 Red, 58                                                                4398.030000
+HL Touring Frame - Blue, 54                                                     4216.422000
+Road-550-W Yellow, 42                                                           3361.470000
+HL Touring Frame - Yellow, 54                                                   3011.730000
+HL Road Frame - Red, 62                                                         2576.700000
+HL Road Frame - Red, 44                                                         2576.700000
+Road-550-W Yellow, 44                                                           2016.882000
+HL Touring Frame - Blue, 60                                                     1807.038000
+HL Touring Frame - Blue, 50                                                      602.346000
+
+(45 rows affected)
+Name                                               TotalRevenue                            
+-------------------------------------------------- ----------------------------------------
+Touring-1000 Blue, 60                                                          37191.492000
+Mountain-200 Black, 42                                                         37178.838000
+Road-350-W Yellow, 48                                                          36486.235500
+Mountain-200 Black, 38                                                         35801.844000
+Touring-1000 Yellow, 60                                                        23413.474656
+Touring-1000 Blue, 50                                                          22887.072000
+Mountain-200 Silver, 42                                                        20879.910000
+Road-350-W Yellow, 40                                                          20411.880000
+
+(8 rows affected)

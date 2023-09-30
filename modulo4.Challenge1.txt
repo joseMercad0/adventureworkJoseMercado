@@ -1,0 +1,109 @@
+Changed database context to 'adventureworks'.
+SalesOrderID FreightCost          
+------------ ---------------------
+       71774               22.0100
+       71776                1.9700
+       71780              960.4700
+       71782              994.6300
+       71783             2096.4600
+       71784             2714.0500
+       71796             1440.8700
+       71797             1950.7400
+       71815               28.5400
+       71816               84.9500
+       71831               50.4100
+       71832              894.3800
+       71845             1040.5500
+       71846               61.3400
+       71856               15.0500
+       71858              345.5900
+       71863               83.1100
+       71867               26.4800
+       71885               13.7600
+       71895                6.1700
+       71897              317.1500
+       71898             1599.5200
+       71899               60.3900
+       71902             1851.4700
+       71915               53.4300
+       71917                1.0200
+       71920               74.5200
+       71923                2.6600
+       71935              165.8600
+       71936             2456.9700
+       71938             2220.3200
+       71946                 .9700
+
+(32 rows affected)
+SalesOrderID FreightCost           ShippingMethod                                    
+------------ --------------------- --------------------------------------------------
+       71774               22.0100 cargo transport 5                                 
+       71776                1.9700 cargo transport 5                                 
+       71780              960.4700 cargo transport 5                                 
+       71782              994.6300 cargo transport 5                                 
+       71783             2096.4600 cargo transport 5                                 
+       71784             2714.0500 cargo transport 5                                 
+       71796             1440.8700 cargo transport 5                                 
+       71797             1950.7400 cargo transport 5                                 
+       71815               28.5400 cargo transport 5                                 
+       71816               84.9500 cargo transport 5                                 
+       71831               50.4100 cargo transport 5                                 
+       71832              894.3800 cargo transport 5                                 
+       71845             1040.5500 cargo transport 5                                 
+       71846               61.3400 cargo transport 5                                 
+       71856               15.0500 cargo transport 5                                 
+       71858              345.5900 cargo transport 5                                 
+       71863               83.1100 cargo transport 5                                 
+       71867               26.4800 cargo transport 5                                 
+       71885               13.7600 cargo transport 5                                 
+       71895                6.1700 cargo transport 5                                 
+       71897              317.1500 cargo transport 5                                 
+       71898             1599.5200 cargo transport 5                                 
+       71899               60.3900 cargo transport 5                                 
+       71902             1851.4700 cargo transport 5                                 
+       71915               53.4300 cargo transport 5                                 
+       71917                1.0200 cargo transport 5                                 
+       71920               74.5200 cargo transport 5                                 
+       71923                2.6600 cargo transport 5                                 
+       71935              165.8600 cargo transport 5                                 
+       71936             2456.9700 cargo transport 5                                 
+       71938             2220.3200 cargo transport 5                                 
+       71946                 .9700 cargo transport 5                                 
+
+(32 rows affected)
+SalesOrderID FreightCost           ShippingMethod                                     ShipYear    ShipMonth                      ShipDay    
+------------ --------------------- -------------------------------------------------- ----------- ------------------------------ -----------
+       71774               22.0100 cargo transport 5                                         2008 June                                     8
+       71776                1.9700 cargo transport 5                                         2008 June                                     8
+       71780              960.4700 cargo transport 5                                         2008 June                                     8
+       71782              994.6300 cargo transport 5                                         2008 June                                     8
+       71783             2096.4600 cargo transport 5                                         2008 June                                     8
+       71784             2714.0500 cargo transport 5                                         2008 June                                     8
+       71796             1440.8700 cargo transport 5                                         2008 June                                     8
+       71797             1950.7400 cargo transport 5                                         2008 June                                     8
+       71815               28.5400 cargo transport 5                                         2008 June                                     8
+       71816               84.9500 cargo transport 5                                         2008 June                                     8
+       71831               50.4100 cargo transport 5                                         2008 June                                     8
+       71832              894.3800 cargo transport 5                                         2008 June                                     8
+       71845             1040.5500 cargo transport 5                                         2008 June                                     8
+       71846               61.3400 cargo transport 5                                         2008 June                                     8
+       71856               15.0500 cargo transport 5                                         2008 June                                     8
+       71858              345.5900 cargo transport 5                                         2008 June                                     8
+       71863               83.1100 cargo transport 5                                         2008 June                                     8
+       71867               26.4800 cargo transport 5                                         2008 June                                     8
+       71885               13.7600 cargo transport 5                                         2008 June                                     8
+       71895                6.1700 cargo transport 5                                         2008 June                                     8
+       71897              317.1500 cargo transport 5                                         2008 June                                     8
+       71898             1599.5200 cargo transport 5                                         2008 June                                     8
+       71899               60.3900 cargo transport 5                                         2008 June                                     8
+       71902             1851.4700 cargo transport 5                                         2008 June                                     8
+       71915               53.4300 cargo transport 5                                         2008 June                                     8
+       71917                1.0200 cargo transport 5                                         2008 June                                     8
+       71920               74.5200 cargo transport 5                                         2008 June                                     8
+       71923                2.6600 cargo transport 5                                         2008 June                                     8
+       71935              165.8600 cargo transport 5                                         2008 June                                     8
+       71936             2456.9700 cargo transport 5                                         2008 June                                     8
+       71938             2220.3200 cargo transport 5                                         2008 June                                     8
+       71946                 .9700 cargo transport 5                                         2008 June                                     8
+
+(32 rows affected)

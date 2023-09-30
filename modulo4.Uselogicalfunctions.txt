@@ -1,0 +1,780 @@
+Changed database context to 'adventureworks'.
+Name                                               NumericSize
+-------------------------------------------------- -----------
+HL Road Frame - Black, 58                          58         
+HL Road Frame - Red, 58                            58         
+HL Road Frame - Red, 62                            62         
+HL Road Frame - Red, 44                            44         
+HL Road Frame - Red, 48                            48         
+HL Road Frame - Red, 52                            52         
+HL Road Frame - Red, 56                            56         
+LL Road Frame - Black, 58                          58         
+LL Road Frame - Black, 60                          60         
+LL Road Frame - Black, 62                          62         
+LL Road Frame - Red, 44                            44         
+LL Road Frame - Red, 48                            48         
+LL Road Frame - Red, 52                            52         
+LL Road Frame - Red, 58                            58         
+LL Road Frame - Red, 60                            60         
+LL Road Frame - Red, 62                            62         
+ML Road Frame - Red, 44                            44         
+ML Road Frame - Red, 48                            48         
+ML Road Frame - Red, 52                            52         
+ML Road Frame - Red, 58                            58         
+ML Road Frame - Red, 60                            60         
+LL Road Frame - Black, 44                          44         
+LL Road Frame - Black, 48                          48         
+LL Road Frame - Black, 52                          52         
+HL Mountain Frame - Silver, 42                     42         
+HL Mountain Frame - Silver, 44                     44         
+HL Mountain Frame - Silver, 48                     48         
+HL Mountain Frame - Silver, 46                     46         
+HL Mountain Frame - Black, 42                      42         
+HL Mountain Frame - Black, 44                      44         
+HL Mountain Frame - Black, 48                      48         
+HL Mountain Frame - Black, 46                      46         
+HL Mountain Frame - Black, 38                      38         
+HL Mountain Frame - Silver, 38                     38         
+Road-150 Red, 62                                   62         
+Road-150 Red, 44                                   44         
+Road-150 Red, 48                                   48         
+Road-150 Red, 52                                   52         
+Road-150 Red, 56                                   56         
+Road-450 Red, 58                                   58         
+Road-450 Red, 60                                   60         
+Road-450 Red, 44                                   44         
+Road-450 Red, 48                                   48         
+Road-450 Red, 52                                   52         
+Road-650 Red, 58                                   58         
+Road-650 Red, 60                                   60         
+Road-650 Red, 62                                   62         
+Road-650 Red, 44                                   44         
+Road-650 Red, 48                                   48         
+Road-650 Red, 52                                   52         
+Road-650 Black, 58                                 58         
+Road-650 Black, 60                                 60         
+Road-650 Black, 62                                 62         
+Road-650 Black, 44                                 44         
+Road-650 Black, 48                                 48         
+Road-650 Black, 52                                 52         
+Mountain-100 Silver, 38                            38         
+Mountain-100 Silver, 42                            42         
+Mountain-100 Silver, 44                            44         
+Mountain-100 Silver, 48                            48         
+Mountain-100 Black, 38                             38         
+Mountain-100 Black, 42                             42         
+Mountain-100 Black, 44                             44         
+Mountain-100 Black, 48                             48         
+Mountain-200 Silver, 38                            38         
+Mountain-200 Silver, 42                            42         
+Mountain-200 Silver, 46                            46         
+Mountain-200 Black, 38                             38         
+Mountain-200 Black, 42                             42         
+Mountain-200 Black, 46                             46         
+Mountain-300 Black, 38                             38         
+Mountain-300 Black, 40                             40         
+Mountain-300 Black, 44                             44         
+Mountain-300 Black, 48                             48         
+Road-250 Red, 44                                   44         
+Road-250 Red, 48                                   48         
+Road-250 Red, 52                                   52         
+Road-250 Red, 58                                   58         
+Road-250 Black, 44                                 44         
+Road-250 Black, 48                                 48         
+Road-250 Black, 52                                 52         
+Road-250 Black, 58                                 58         
+Road-550-W Yellow, 38                              38         
+Road-550-W Yellow, 40                              40         
+Road-550-W Yellow, 42                              42         
+Road-550-W Yellow, 44                              44         
+Road-550-W Yellow, 48                              48         
+ML Mountain Frame - Black, 38                      38         
+ML Road Frame-W - Yellow, 38                       38         
+ML Mountain Frame - Black, 40                      40         
+ML Mountain Frame - Black, 44                      44         
+ML Mountain Frame - Black, 48                      48         
+ML Road Frame-W - Yellow, 40                       40         
+ML Road Frame-W - Yellow, 42                       42         
+ML Road Frame-W - Yellow, 44                       44         
+ML Road Frame-W - Yellow, 48                       48         
+HL Road Frame - Black, 62                          62         
+HL Road Frame - Black, 44                          44         
+HL Road Frame - Black, 48                          48         
+HL Road Frame - Black, 52                          52         
+Hydration Pack - 70 oz.                            70         
+HL Touring Frame - Yellow, 60                      60         
+LL Touring Frame - Yellow, 62                      62         
+HL Touring Frame - Yellow, 46                      46         
+HL Touring Frame - Yellow, 50                      50         
+HL Touring Frame - Yellow, 54                      54         
+HL Touring Frame - Blue, 46                        46         
+HL Touring Frame - Blue, 50                        50         
+HL Touring Frame - Blue, 54                        54         
+HL Touring Frame - Blue, 60                        60         
+LL Touring Frame - Blue, 50                        50         
+LL Touring Frame - Blue, 54                        54         
+LL Touring Frame - Blue, 58                        58         
+LL Touring Frame - Blue, 62                        62         
+LL Touring Frame - Yellow, 44                      44         
+LL Touring Frame - Yellow, 50                      50         
+LL Touring Frame - Yellow, 54                      54         
+LL Touring Frame - Yellow, 58                      58         
+LL Touring Frame - Blue, 44                        44         
+ML Mountain Frame-W - Silver, 40                   40         
+ML Mountain Frame-W - Silver, 42                   42         
+ML Mountain Frame-W - Silver, 46                   46         
+LL Mountain Frame - Silver, 42                     42         
+LL Mountain Frame - Silver, 44                     44         
+LL Mountain Frame - Silver, 48                     48         
+LL Mountain Frame - Silver, 52                     52         
+LL Mountain Frame - Black, 42                      42         
+LL Mountain Frame - Black, 44                      44         
+LL Mountain Frame - Black, 48                      48         
+LL Mountain Frame - Black, 52                      52         
+ML Mountain Frame-W - Silver, 38                   38         
+LL Mountain Frame - Black, 40                      40         
+LL Mountain Frame - Silver, 40                     40         
+Touring-2000 Blue, 60                              60         
+Touring-1000 Yellow, 46                            46         
+Touring-1000 Yellow, 50                            50         
+Touring-1000 Yellow, 54                            54         
+Touring-1000 Yellow, 60                            60         
+Touring-3000 Blue, 54                              54         
+Touring-3000 Blue, 58                              58         
+Touring-3000 Blue, 62                              62         
+Touring-3000 Yellow, 44                            44         
+Touring-3000 Yellow, 50                            50         
+Touring-3000 Yellow, 54                            54         
+Touring-3000 Yellow, 58                            58         
+Touring-3000 Yellow, 62                            62         
+Touring-1000 Blue, 46                              46         
+Touring-1000 Blue, 50                              50         
+Touring-1000 Blue, 54                              54         
+Touring-1000 Blue, 60                              60         
+Touring-2000 Blue, 46                              46         
+Touring-2000 Blue, 50                              50         
+Touring-2000 Blue, 54                              54         
+Road-350-W Yellow, 40                              40         
+Road-350-W Yellow, 42                              42         
+Road-350-W Yellow, 44                              44         
+Road-350-W Yellow, 48                              48         
+Road-750 Black, 58                                 58         
+Touring-3000 Blue, 44                              44         
+Touring-3000 Blue, 50                              50         
+Mountain-400-W Silver, 38                          38         
+Mountain-400-W Silver, 40                          40         
+Mountain-400-W Silver, 42                          42         
+Mountain-400-W Silver, 46                          46         
+Mountain-500 Silver, 40                            40         
+Mountain-500 Silver, 42                            42         
+Mountain-500 Silver, 44                            44         
+Mountain-500 Silver, 48                            48         
+Mountain-500 Silver, 52                            52         
+Mountain-500 Black, 40                             40         
+Mountain-500 Black, 42                             42         
+Mountain-500 Black, 44                             44         
+Mountain-500 Black, 48                             48         
+Mountain-500 Black, 52                             52         
+Road-750 Black, 44                                 44         
+Road-750 Black, 48                                 48         
+Road-750 Black, 52                                 52         
+
+(177 rows affected)
+Name                                               SizeType   
+-------------------------------------------------- -----------
+HL Road Frame - Black, 58                          Numeric    
+HL Road Frame - Red, 58                            Numeric    
+Sport-100 Helmet, Red                              Non-Numeric
+Sport-100 Helmet, Black                            Non-Numeric
+Mountain Bike Socks, M                             Non-Numeric
+Mountain Bike Socks, L                             Non-Numeric
+Sport-100 Helmet, Blue                             Non-Numeric
+AWC Logo Cap                                       Non-Numeric
+Long-Sleeve Logo Jersey, S                         Non-Numeric
+Long-Sleeve Logo Jersey, M                         Non-Numeric
+Long-Sleeve Logo Jersey, L                         Non-Numeric
+Long-Sleeve Logo Jersey, XL                        Non-Numeric
+HL Road Frame - Red, 62                            Numeric    
+HL Road Frame - Red, 44                            Numeric    
+HL Road Frame - Red, 48                            Numeric    
+HL Road Frame - Red, 52                            Numeric    
+HL Road Frame - Red, 56                            Numeric    
+LL Road Frame - Black, 58                          Numeric    
+LL Road Frame - Black, 60                          Numeric    
+LL Road Frame - Black, 62                          Numeric    
+LL Road Frame - Red, 44                            Numeric    
+LL Road Frame - Red, 48                            Numeric    
+LL Road Frame - Red, 52                            Numeric    
+LL Road Frame - Red, 58                            Numeric    
+LL Road Frame - Red, 60                            Numeric    
+LL Road Frame - Red, 62                            Numeric    
+ML Road Frame - Red, 44                            Numeric    
+ML Road Frame - Red, 48                            Numeric    
+ML Road Frame - Red, 52                            Numeric    
+ML Road Frame - Red, 58                            Numeric    
+ML Road Frame - Red, 60                            Numeric    
+LL Road Frame - Black, 44                          Numeric    
+LL Road Frame - Black, 48                          Numeric    
+LL Road Frame - Black, 52                          Numeric    
+HL Mountain Frame - Silver, 42                     Numeric    
+HL Mountain Frame - Silver, 44                     Numeric    
+HL Mountain Frame - Silver, 48                     Numeric    
+HL Mountain Frame - Silver, 46                     Numeric    
+HL Mountain Frame - Black, 42                      Numeric    
+HL Mountain Frame - Black, 44                      Numeric    
+HL Mountain Frame - Black, 48                      Numeric    
+HL Mountain Frame - Black, 46                      Numeric    
+HL Mountain Frame - Black, 38                      Numeric    
+HL Mountain Frame - Silver, 38                     Numeric    
+Road-150 Red, 62                                   Numeric    
+Road-150 Red, 44                                   Numeric    
+Road-150 Red, 48                                   Numeric    
+Road-150 Red, 52                                   Numeric    
+Road-150 Red, 56                                   Numeric    
+Road-450 Red, 58                                   Numeric    
+Road-450 Red, 60                                   Numeric    
+Road-450 Red, 44                                   Numeric    
+Road-450 Red, 48                                   Numeric    
+Road-450 Red, 52                                   Numeric    
+Road-650 Red, 58                                   Numeric    
+Road-650 Red, 60                                   Numeric    
+Road-650 Red, 62                                   Numeric    
+Road-650 Red, 44                                   Numeric    
+Road-650 Red, 48                                   Numeric    
+Road-650 Red, 52                                   Numeric    
+Road-650 Black, 58                                 Numeric    
+Road-650 Black, 60                                 Numeric    
+Road-650 Black, 62                                 Numeric    
+Road-650 Black, 44                                 Numeric    
+Road-650 Black, 48                                 Numeric    
+Road-650 Black, 52                                 Numeric    
+Mountain-100 Silver, 38                            Numeric    
+Mountain-100 Silver, 42                            Numeric    
+Mountain-100 Silver, 44                            Numeric    
+Mountain-100 Silver, 48                            Numeric    
+Mountain-100 Black, 38                             Numeric    
+Mountain-100 Black, 42                             Numeric    
+Mountain-100 Black, 44                             Numeric    
+Mountain-100 Black, 48                             Numeric    
+Mountain-200 Silver, 38                            Numeric    
+Mountain-200 Silver, 42                            Numeric    
+Mountain-200 Silver, 46                            Numeric    
+Mountain-200 Black, 38                             Numeric    
+Mountain-200 Black, 42                             Numeric    
+Mountain-200 Black, 46                             Numeric    
+Mountain-300 Black, 38                             Numeric    
+Mountain-300 Black, 40                             Numeric    
+Mountain-300 Black, 44                             Numeric    
+Mountain-300 Black, 48                             Numeric    
+Road-250 Red, 44                                   Numeric    
+Road-250 Red, 48                                   Numeric    
+Road-250 Red, 52                                   Numeric    
+Road-250 Red, 58                                   Numeric    
+Road-250 Black, 44                                 Numeric    
+Road-250 Black, 48                                 Numeric    
+Road-250 Black, 52                                 Numeric    
+Road-250 Black, 58                                 Numeric    
+Road-550-W Yellow, 38                              Numeric    
+Road-550-W Yellow, 40                              Numeric    
+Road-550-W Yellow, 42                              Numeric    
+Road-550-W Yellow, 44                              Numeric    
+Road-550-W Yellow, 48                              Numeric    
+LL Fork                                            Non-Numeric
+ML Fork                                            Non-Numeric
+HL Fork                                            Non-Numeric
+LL Headset                                         Non-Numeric
+ML Headset                                         Non-Numeric
+HL Headset                                         Non-Numeric
+LL Mountain Handlebars                             Non-Numeric
+ML Mountain Handlebars                             Non-Numeric
+HL Mountain Handlebars                             Non-Numeric
+LL Road Handlebars                                 Non-Numeric
+ML Road Handlebars                                 Non-Numeric
+HL Road Handlebars                                 Non-Numeric
+ML Mountain Frame - Black, 38                      Numeric    
+LL Mountain Front Wheel                            Non-Numeric
+ML Mountain Front Wheel                            Non-Numeric
+HL Mountain Front Wheel                            Non-Numeric
+LL Road Front Wheel                                Non-Numeric
+ML Road Front Wheel                                Non-Numeric
+HL Road Front Wheel                                Non-Numeric
+Touring Front Wheel                                Non-Numeric
+ML Road Frame-W - Yellow, 38                       Numeric    
+LL Mountain Rear Wheel                             Non-Numeric
+ML Mountain Rear Wheel                             Non-Numeric
+HL Mountain Rear Wheel                             Non-Numeric
+LL Road Rear Wheel                                 Non-Numeric
+ML Road Rear Wheel                                 Non-Numeric
+HL Road Rear Wheel                                 Non-Numeric
+Touring Rear Wheel                                 Non-Numeric
+ML Mountain Frame - Black, 40                      Numeric    
+ML Mountain Frame - Black, 44                      Numeric    
+ML Mountain Frame - Black, 48                      Numeric    
+ML Road Frame-W - Yellow, 40                       Numeric    
+ML Road Frame-W - Yellow, 42                       Numeric    
+ML Road Frame-W - Yellow, 44                       Numeric    
+ML Road Frame-W - Yellow, 48                       Numeric    
+HL Road Frame - Black, 62                          Numeric    
+HL Road Frame - Black, 44                          Numeric    
+HL Road Frame - Black, 48                          Numeric    
+HL Road Frame - Black, 52                          Numeric    
+Men's Sports Shorts, S                             Non-Numeric
+Touring-Panniers, Large                            Non-Numeric
+Cable Lock                                         Non-Numeric
+Minipump                                           Non-Numeric
+Mountain Pump                                      Non-Numeric
+Taillights - Battery-Powered                       Non-Numeric
+Headlights - Dual-Beam                             Non-Numeric
+Headlights - Weatherproof                          Non-Numeric
+Men's Sports Shorts, M                             Non-Numeric
+Men's Sports Shorts, L                             Non-Numeric
+Men's Sports Shorts, XL                            Non-Numeric
+Women's Tights, S                                  Non-Numeric
+Women's Tights, M                                  Non-Numeric
+Women's Tights, L                                  Non-Numeric
+Men's Bib-Shorts, S                                Non-Numeric
+Men's Bib-Shorts, M                                Non-Numeric
+Men's Bib-Shorts, L                                Non-Numeric
+Half-Finger Gloves, S                              Non-Numeric
+Half-Finger Gloves, M                              Non-Numeric
+Half-Finger Gloves, L                              Non-Numeric
+Full-Finger Gloves, S                              Non-Numeric
+Full-Finger Gloves, M                              Non-Numeric
+Full-Finger Gloves, L                              Non-Numeric
+Classic Vest, S                                    Non-Numeric
+Classic Vest, M                                    Non-Numeric
+Classic Vest, L                                    Non-Numeric
+Women's Mountain Shorts, S                         Non-Numeric
+Women's Mountain Shorts, M                         Non-Numeric
+Women's Mountain Shorts, L                         Non-Numeric
+Water Bottle - 30 oz.                              Non-Numeric
+Mountain Bottle Cage                               Non-Numeric
+Road Bottle Cage                                   Non-Numeric
+Patch Kit/8 Patches                                Non-Numeric
+Racing Socks, M                                    Non-Numeric
+Racing Socks, L                                    Non-Numeric
+Hitch Rack - 4-Bike                                Non-Numeric
+Bike Wash - Dissolver                              Non-Numeric
+Fender Set - Mountain                              Non-Numeric
+All-Purpose Bike Stand                             Non-Numeric
+Hydration Pack - 70 oz.                            Numeric    
+Short-Sleeve Classic Jersey, S                     Non-Numeric
+Short-Sleeve Classic Jersey, M                     Non-Numeric
+Short-Sleeve Classic Jersey, L                     Non-Numeric
+Short-Sleeve Classic Jersey, XL                    Non-Numeric
+HL Touring Frame - Yellow, 60                      Numeric    
+LL Touring Frame - Yellow, 62                      Numeric    
+HL Touring Frame - Yellow, 46                      Numeric    
+HL Touring Frame - Yellow, 50                      Numeric    
+HL Touring Frame - Yellow, 54                      Numeric    
+HL Touring Frame - Blue, 46                        Numeric    
+HL Touring Frame - Blue, 50                        Numeric    
+HL Touring Frame - Blue, 54                        Numeric    
+HL Touring Frame - Blue, 60                        Numeric    
+Rear Derailleur                                    Non-Numeric
+LL Touring Frame - Blue, 50                        Numeric    
+LL Touring Frame - Blue, 54                        Numeric    
+LL Touring Frame - Blue, 58                        Numeric    
+LL Touring Frame - Blue, 62                        Numeric    
+LL Touring Frame - Yellow, 44                      Numeric    
+LL Touring Frame - Yellow, 50                      Numeric    
+LL Touring Frame - Yellow, 54                      Numeric    
+LL Touring Frame - Yellow, 58                      Numeric    
+LL Touring Frame - Blue, 44                        Numeric    
+ML Mountain Frame-W - Silver, 40                   Numeric    
+ML Mountain Frame-W - Silver, 42                   Numeric    
+ML Mountain Frame-W - Silver, 46                   Numeric    
+Rear Brakes                                        Non-Numeric
+LL Mountain Seat/Saddle                            Non-Numeric
+ML Mountain Seat/Saddle                            Non-Numeric
+HL Mountain Seat/Saddle                            Non-Numeric
+LL Road Seat/Saddle                                Non-Numeric
+ML Road Seat/Saddle                                Non-Numeric
+HL Road Seat/Saddle                                Non-Numeric
+LL Touring Seat/Saddle                             Non-Numeric
+ML Touring Seat/Saddle                             Non-Numeric
+HL Touring Seat/Saddle                             Non-Numeric
+LL Mountain Frame - Silver, 42                     Numeric    
+LL Mountain Frame - Silver, 44                     Numeric    
+LL Mountain Frame - Silver, 48                     Numeric    
+LL Mountain Frame - Silver, 52                     Numeric    
+Mountain Tire Tube                                 Non-Numeric
+Road Tire Tube                                     Non-Numeric
+Touring Tire Tube                                  Non-Numeric
+LL Mountain Frame - Black, 42                      Numeric    
+LL Mountain Frame - Black, 44                      Numeric    
+LL Mountain Frame - Black, 48                      Numeric    
+LL Mountain Frame - Black, 52                      Numeric    
+LL Mountain Tire                                   Non-Numeric
+ML Mountain Tire                                   Non-Numeric
+HL Mountain Tire                                   Non-Numeric
+LL Road Tire                                       Non-Numeric
+ML Road Tire                                       Non-Numeric
+HL Road Tire                                       Non-Numeric
+Touring Tire                                       Non-Numeric
+LL Mountain Pedal                                  Non-Numeric
+ML Mountain Pedal                                  Non-Numeric
+HL Mountain Pedal                                  Non-Numeric
+LL Road Pedal                                      Non-Numeric
+ML Road Pedal                                      Non-Numeric
+HL Road Pedal                                      Non-Numeric
+Touring Pedal                                      Non-Numeric
+ML Mountain Frame-W - Silver, 38                   Numeric    
+LL Mountain Frame - Black, 40                      Numeric    
+LL Mountain Frame - Silver, 40                     Numeric    
+Front Derailleur                                   Non-Numeric
+LL Touring Handlebars                              Non-Numeric
+HL Touring Handlebars                              Non-Numeric
+Front Brakes                                       Non-Numeric
+LL Crankset                                        Non-Numeric
+ML Crankset                                        Non-Numeric
+HL Crankset                                        Non-Numeric
+Chain                                              Non-Numeric
+Touring-2000 Blue, 60                              Numeric    
+Touring-1000 Yellow, 46                            Numeric    
+Touring-1000 Yellow, 50                            Numeric    
+Touring-1000 Yellow, 54                            Numeric    
+Touring-1000 Yellow, 60                            Numeric    
+Touring-3000 Blue, 54                              Numeric    
+Touring-3000 Blue, 58                              Numeric    
+Touring-3000 Blue, 62                              Numeric    
+Touring-3000 Yellow, 44                            Numeric    
+Touring-3000 Yellow, 50                            Numeric    
+Touring-3000 Yellow, 54                            Numeric    
+Touring-3000 Yellow, 58                            Numeric    
+Touring-3000 Yellow, 62                            Numeric    
+Touring-1000 Blue, 46                              Numeric    
+Touring-1000 Blue, 50                              Numeric    
+Touring-1000 Blue, 54                              Numeric    
+Touring-1000 Blue, 60                              Numeric    
+Touring-2000 Blue, 46                              Numeric    
+Touring-2000 Blue, 50                              Numeric    
+Touring-2000 Blue, 54                              Numeric    
+Road-350-W Yellow, 40                              Numeric    
+Road-350-W Yellow, 42                              Numeric    
+Road-350-W Yellow, 44                              Numeric    
+Road-350-W Yellow, 48                              Numeric    
+Road-750 Black, 58                                 Numeric    
+Touring-3000 Blue, 44                              Numeric    
+Touring-3000 Blue, 50                              Numeric    
+Mountain-400-W Silver, 38                          Numeric    
+Mountain-400-W Silver, 40                          Numeric    
+Mountain-400-W Silver, 42                          Numeric    
+Mountain-400-W Silver, 46                          Numeric    
+Mountain-500 Silver, 40                            Numeric    
+Mountain-500 Silver, 42                            Numeric    
+Mountain-500 Silver, 44                            Numeric    
+Mountain-500 Silver, 48                            Numeric    
+Mountain-500 Silver, 52                            Numeric    
+Mountain-500 Black, 40                             Numeric    
+Mountain-500 Black, 42                             Numeric    
+Mountain-500 Black, 44                             Numeric    
+Mountain-500 Black, 48                             Numeric    
+Mountain-500 Black, 52                             Numeric    
+LL Bottom Bracket                                  Non-Numeric
+ML Bottom Bracket                                  Non-Numeric
+HL Bottom Bracket                                  Non-Numeric
+Road-750 Black, 44                                 Numeric    
+Road-750 Black, 48                                 Numeric    
+Road-750 Black, 52                                 Numeric    
+
+(295 rows affected)
+ProductName                                        Category                                           ProductType
+-------------------------------------------------- -------------------------------------------------- -----------
+Mountain-100 Silver, 38                            Mountain Bikes                                     Bikes      
+Mountain-100 Silver, 42                            Mountain Bikes                                     Bikes      
+Mountain-100 Silver, 44                            Mountain Bikes                                     Bikes      
+Mountain-100 Silver, 48                            Mountain Bikes                                     Bikes      
+Mountain-100 Black, 38                             Mountain Bikes                                     Bikes      
+Mountain-100 Black, 42                             Mountain Bikes                                     Bikes      
+Mountain-100 Black, 44                             Mountain Bikes                                     Bikes      
+Mountain-100 Black, 48                             Mountain Bikes                                     Bikes      
+Mountain-200 Silver, 38                            Mountain Bikes                                     Bikes      
+Mountain-200 Silver, 42                            Mountain Bikes                                     Bikes      
+Mountain-200 Silver, 46                            Mountain Bikes                                     Bikes      
+Mountain-200 Black, 38                             Mountain Bikes                                     Bikes      
+Mountain-200 Black, 42                             Mountain Bikes                                     Bikes      
+Mountain-200 Black, 46                             Mountain Bikes                                     Bikes      
+Mountain-300 Black, 38                             Mountain Bikes                                     Bikes      
+Mountain-300 Black, 40                             Mountain Bikes                                     Bikes      
+Mountain-300 Black, 44                             Mountain Bikes                                     Bikes      
+Mountain-300 Black, 48                             Mountain Bikes                                     Bikes      
+Mountain-400-W Silver, 38                          Mountain Bikes                                     Bikes      
+Mountain-400-W Silver, 40                          Mountain Bikes                                     Bikes      
+Mountain-400-W Silver, 42                          Mountain Bikes                                     Bikes      
+Mountain-400-W Silver, 46                          Mountain Bikes                                     Bikes      
+Mountain-500 Silver, 40                            Mountain Bikes                                     Bikes      
+Mountain-500 Silver, 42                            Mountain Bikes                                     Bikes      
+Mountain-500 Silver, 44                            Mountain Bikes                                     Bikes      
+Mountain-500 Silver, 48                            Mountain Bikes                                     Bikes      
+Mountain-500 Silver, 52                            Mountain Bikes                                     Bikes      
+Mountain-500 Black, 40                             Mountain Bikes                                     Bikes      
+Mountain-500 Black, 42                             Mountain Bikes                                     Bikes      
+Mountain-500 Black, 44                             Mountain Bikes                                     Bikes      
+Mountain-500 Black, 48                             Mountain Bikes                                     Bikes      
+Mountain-500 Black, 52                             Mountain Bikes                                     Bikes      
+Road-350-W Yellow, 40                              Road Bikes                                         Bikes      
+Road-350-W Yellow, 42                              Road Bikes                                         Bikes      
+Road-350-W Yellow, 44                              Road Bikes                                         Bikes      
+Road-350-W Yellow, 48                              Road Bikes                                         Bikes      
+Road-750 Black, 58                                 Road Bikes                                         Bikes      
+Road-750 Black, 44                                 Road Bikes                                         Bikes      
+Road-750 Black, 48                                 Road Bikes                                         Bikes      
+Road-750 Black, 52                                 Road Bikes                                         Bikes      
+Road-250 Red, 44                                   Road Bikes                                         Bikes      
+Road-250 Red, 48                                   Road Bikes                                         Bikes      
+Road-250 Red, 52                                   Road Bikes                                         Bikes      
+Road-250 Red, 58                                   Road Bikes                                         Bikes      
+Road-250 Black, 44                                 Road Bikes                                         Bikes      
+Road-250 Black, 48                                 Road Bikes                                         Bikes      
+Road-250 Black, 52                                 Road Bikes                                         Bikes      
+Road-250 Black, 58                                 Road Bikes                                         Bikes      
+Road-550-W Yellow, 38                              Road Bikes                                         Bikes      
+Road-550-W Yellow, 40                              Road Bikes                                         Bikes      
+Road-550-W Yellow, 42                              Road Bikes                                         Bikes      
+Road-550-W Yellow, 44                              Road Bikes                                         Bikes      
+Road-550-W Yellow, 48                              Road Bikes                                         Bikes      
+Road-150 Red, 62                                   Road Bikes                                         Bikes      
+Road-150 Red, 44                                   Road Bikes                                         Bikes      
+Road-150 Red, 48                                   Road Bikes                                         Bikes      
+Road-150 Red, 52                                   Road Bikes                                         Bikes      
+Road-150 Red, 56                                   Road Bikes                                         Bikes      
+Road-450 Red, 58                                   Road Bikes                                         Bikes      
+Road-450 Red, 60                                   Road Bikes                                         Bikes      
+Road-450 Red, 44                                   Road Bikes                                         Bikes      
+Road-450 Red, 48                                   Road Bikes                                         Bikes      
+Road-450 Red, 52                                   Road Bikes                                         Bikes      
+Road-650 Red, 58                                   Road Bikes                                         Bikes      
+Road-650 Red, 60                                   Road Bikes                                         Bikes      
+Road-650 Red, 62                                   Road Bikes                                         Bikes      
+Road-650 Red, 44                                   Road Bikes                                         Bikes      
+Road-650 Red, 48                                   Road Bikes                                         Bikes      
+Road-650 Red, 52                                   Road Bikes                                         Bikes      
+Road-650 Black, 58                                 Road Bikes                                         Bikes      
+Road-650 Black, 60                                 Road Bikes                                         Bikes      
+Road-650 Black, 62                                 Road Bikes                                         Bikes      
+Road-650 Black, 44                                 Road Bikes                                         Bikes      
+Road-650 Black, 48                                 Road Bikes                                         Bikes      
+Road-650 Black, 52                                 Road Bikes                                         Bikes      
+Touring-3000 Blue, 44                              Touring Bikes                                      Bikes      
+Touring-3000 Blue, 50                              Touring Bikes                                      Bikes      
+Touring-2000 Blue, 60                              Touring Bikes                                      Bikes      
+Touring-1000 Yellow, 46                            Touring Bikes                                      Bikes      
+Touring-1000 Yellow, 50                            Touring Bikes                                      Bikes      
+Touring-1000 Yellow, 54                            Touring Bikes                                      Bikes      
+Touring-1000 Yellow, 60                            Touring Bikes                                      Bikes      
+Touring-3000 Blue, 54                              Touring Bikes                                      Bikes      
+Touring-3000 Blue, 58                              Touring Bikes                                      Bikes      
+Touring-3000 Blue, 62                              Touring Bikes                                      Bikes      
+Touring-3000 Yellow, 44                            Touring Bikes                                      Bikes      
+Touring-3000 Yellow, 50                            Touring Bikes                                      Bikes      
+Touring-3000 Yellow, 54                            Touring Bikes                                      Bikes      
+Touring-3000 Yellow, 58                            Touring Bikes                                      Bikes      
+Touring-3000 Yellow, 62                            Touring Bikes                                      Bikes      
+Touring-1000 Blue, 46                              Touring Bikes                                      Bikes      
+Touring-1000 Blue, 50                              Touring Bikes                                      Bikes      
+Touring-1000 Blue, 54                              Touring Bikes                                      Bikes      
+Touring-1000 Blue, 60                              Touring Bikes                                      Bikes      
+Touring-2000 Blue, 46                              Touring Bikes                                      Bikes      
+Touring-2000 Blue, 50                              Touring Bikes                                      Bikes      
+Touring-2000 Blue, 54                              Touring Bikes                                      Bikes      
+LL Touring Handlebars                              Handlebars                                         Components 
+HL Touring Handlebars                              Handlebars                                         Components 
+LL Mountain Handlebars                             Handlebars                                         Components 
+ML Mountain Handlebars                             Handlebars                                         Components 
+HL Mountain Handlebars                             Handlebars                                         Components 
+LL Road Handlebars                                 Handlebars                                         Components 
+ML Road Handlebars                                 Handlebars                                         Components 
+HL Road Handlebars                                 Handlebars                                         Components 
+LL Bottom Bracket                                  Bottom Brackets                                    Components 
+ML Bottom Bracket                                  Bottom Brackets                                    Components 
+HL Bottom Bracket                                  Bottom Brackets                                    Components 
+Front Brakes                                       Brakes                                             Components 
+Rear Brakes                                        Brakes                                             Components 
+Chain                                              Chains                                             Components 
+LL Crankset                                        Cranksets                                          Components 
+ML Crankset                                        Cranksets                                          Components 
+HL Crankset                                        Cranksets                                          Components 
+Front Derailleur                                   Derailleurs                                        Components 
+Rear Derailleur                                    Derailleurs                                        Components 
+LL Fork                                            Forks                                              Components 
+ML Fork                                            Forks                                              Components 
+HL Fork                                            Forks                                              Components 
+LL Headset                                         Headsets                                           Components 
+ML Headset                                         Headsets                                           Components 
+HL Headset                                         Headsets                                           Components 
+HL Mountain Frame - Silver, 42                     Mountain Frames                                    Components 
+HL Mountain Frame - Silver, 44                     Mountain Frames                                    Components 
+HL Mountain Frame - Silver, 48                     Mountain Frames                                    Components 
+HL Mountain Frame - Silver, 46                     Mountain Frames                                    Components 
+HL Mountain Frame - Black, 42                      Mountain Frames                                    Components 
+HL Mountain Frame - Black, 44                      Mountain Frames                                    Components 
+HL Mountain Frame - Black, 48                      Mountain Frames                                    Components 
+HL Mountain Frame - Black, 46                      Mountain Frames                                    Components 
+HL Mountain Frame - Black, 38                      Mountain Frames                                    Components 
+HL Mountain Frame - Silver, 38                     Mountain Frames                                    Components 
+ML Mountain Frame - Black, 38                      Mountain Frames                                    Components 
+ML Mountain Frame - Black, 40                      Mountain Frames                                    Components 
+ML Mountain Frame - Black, 44                      Mountain Frames                                    Components 
+ML Mountain Frame - Black, 48                      Mountain Frames                                    Components 
+LL Mountain Frame - Black, 42                      Mountain Frames                                    Components 
+LL Mountain Frame - Black, 44                      Mountain Frames                                    Components 
+LL Mountain Frame - Black, 48                      Mountain Frames                                    Components 
+LL Mountain Frame - Black, 52                      Mountain Frames                                    Components 
+LL Mountain Frame - Silver, 42                     Mountain Frames                                    Components 
+LL Mountain Frame - Silver, 44                     Mountain Frames                                    Components 
+LL Mountain Frame - Silver, 48                     Mountain Frames                                    Components 
+LL Mountain Frame - Silver, 52                     Mountain Frames                                    Components 
+ML Mountain Frame-W - Silver, 40                   Mountain Frames                                    Components 
+ML Mountain Frame-W - Silver, 42                   Mountain Frames                                    Components 
+ML Mountain Frame-W - Silver, 46                   Mountain Frames                                    Components 
+ML Mountain Frame-W - Silver, 38                   Mountain Frames                                    Components 
+LL Mountain Frame - Black, 40                      Mountain Frames                                    Components 
+LL Mountain Frame - Silver, 40                     Mountain Frames                                    Components 
+LL Mountain Pedal                                  Pedals                                             Components 
+ML Mountain Pedal                                  Pedals                                             Components 
+HL Mountain Pedal                                  Pedals                                             Components 
+LL Road Pedal                                      Pedals                                             Components 
+ML Road Pedal                                      Pedals                                             Components 
+HL Road Pedal                                      Pedals                                             Components 
+Touring Pedal                                      Pedals                                             Components 
+ML Road Frame-W - Yellow, 40                       Road Frames                                        Components 
+ML Road Frame-W - Yellow, 42                       Road Frames                                        Components 
+ML Road Frame-W - Yellow, 44                       Road Frames                                        Components 
+ML Road Frame-W - Yellow, 48                       Road Frames                                        Components 
+HL Road Frame - Black, 62                          Road Frames                                        Components 
+HL Road Frame - Black, 44                          Road Frames                                        Components 
+HL Road Frame - Black, 48                          Road Frames                                        Components 
+HL Road Frame - Black, 52                          Road Frames                                        Components 
+ML Road Frame-W - Yellow, 38                       Road Frames                                        Components 
+HL Road Frame - Black, 58                          Road Frames                                        Components 
+HL Road Frame - Red, 58                            Road Frames                                        Components 
+HL Road Frame - Red, 62                            Road Frames                                        Components 
+HL Road Frame - Red, 44                            Road Frames                                        Components 
+HL Road Frame - Red, 48                            Road Frames                                        Components 
+HL Road Frame - Red, 52                            Road Frames                                        Components 
+HL Road Frame - Red, 56                            Road Frames                                        Components 
+LL Road Frame - Black, 58                          Road Frames                                        Components 
+LL Road Frame - Black, 60                          Road Frames                                        Components 
+LL Road Frame - Black, 62                          Road Frames                                        Components 
+LL Road Frame - Red, 44                            Road Frames                                        Components 
+LL Road Frame - Red, 48                            Road Frames                                        Components 
+LL Road Frame - Red, 52                            Road Frames                                        Components 
+LL Road Frame - Red, 58                            Road Frames                                        Components 
+LL Road Frame - Red, 60                            Road Frames                                        Components 
+LL Road Frame - Red, 62                            Road Frames                                        Components 
+ML Road Frame - Red, 44                            Road Frames                                        Components 
+ML Road Frame - Red, 48                            Road Frames                                        Components 
+ML Road Frame - Red, 52                            Road Frames                                        Components 
+ML Road Frame - Red, 58                            Road Frames                                        Components 
+ML Road Frame - Red, 60                            Road Frames                                        Components 
+LL Road Frame - Black, 44                          Road Frames                                        Components 
+LL Road Frame - Black, 48                          Road Frames                                        Components 
+LL Road Frame - Black, 52                          Road Frames                                        Components 
+LL Mountain Seat/Saddle                            Saddles                                            Components 
+ML Mountain Seat/Saddle                            Saddles                                            Components 
+HL Mountain Seat/Saddle                            Saddles                                            Components 
+LL Road Seat/Saddle                                Saddles                                            Components 
+ML Road Seat/Saddle                                Saddles                                            Components 
+HL Road Seat/Saddle                                Saddles                                            Components 
+LL Touring Seat/Saddle                             Saddles                                            Components 
+ML Touring Seat/Saddle                             Saddles                                            Components 
+HL Touring Seat/Saddle                             Saddles                                            Components 
+LL Touring Frame - Blue, 50                        Touring Frames                                     Components 
+LL Touring Frame - Blue, 54                        Touring Frames                                     Components 
+LL Touring Frame - Blue, 58                        Touring Frames                                     Components 
+LL Touring Frame - Blue, 62                        Touring Frames                                     Components 
+LL Touring Frame - Yellow, 44                      Touring Frames                                     Components 
+LL Touring Frame - Yellow, 50                      Touring Frames                                     Components 
+LL Touring Frame - Yellow, 54                      Touring Frames                                     Components 
+LL Touring Frame - Yellow, 58                      Touring Frames                                     Components 
+LL Touring Frame - Blue, 44                        Touring Frames                                     Components 
+HL Touring Frame - Yellow, 60                      Touring Frames                                     Components 
+LL Touring Frame - Yellow, 62                      Touring Frames                                     Components 
+HL Touring Frame - Yellow, 46                      Touring Frames                                     Components 
+HL Touring Frame - Yellow, 50                      Touring Frames                                     Components 
+HL Touring Frame - Yellow, 54                      Touring Frames                                     Components 
+HL Touring Frame - Blue, 46                        Touring Frames                                     Components 
+HL Touring Frame - Blue, 50                        Touring Frames                                     Components 
+HL Touring Frame - Blue, 54                        Touring Frames                                     Components 
+HL Touring Frame - Blue, 60                        Touring Frames                                     Components 
+LL Mountain Rear Wheel                             Wheels                                             Components 
+ML Mountain Rear Wheel                             Wheels                                             Components 
+HL Mountain Rear Wheel                             Wheels                                             Components 
+LL Road Rear Wheel                                 Wheels                                             Components 
+ML Road Rear Wheel                                 Wheels                                             Components 
+HL Road Rear Wheel                                 Wheels                                             Components 
+Touring Rear Wheel                                 Wheels                                             Components 
+LL Mountain Front Wheel                            Wheels                                             Components 
+ML Mountain Front Wheel                            Wheels                                             Components 
+HL Mountain Front Wheel                            Wheels                                             Components 
+LL Road Front Wheel                                Wheels                                             Components 
+ML Road Front Wheel                                Wheels                                             Components 
+HL Road Front Wheel                                Wheels                                             Components 
+Touring Front Wheel                                Wheels                                             Components 
+Men's Bib-Shorts, S                                Bib-Shorts                                         Clothing   
+Men's Bib-Shorts, M                                Bib-Shorts                                         Clothing   
+Men's Bib-Shorts, L                                Bib-Shorts                                         Clothing   
+AWC Logo Cap                                       Caps                                               Clothing   
+Half-Finger Gloves, S                              Gloves                                             Clothing   
+Half-Finger Gloves, M                              Gloves                                             Clothing   
+Half-Finger Gloves, L                              Gloves                                             Clothing   
+Full-Finger Gloves, S                              Gloves                                             Clothing   
+Full-Finger Gloves, M                              Gloves                                             Clothing   
+Full-Finger Gloves, L                              Gloves                                             Clothing   
+Long-Sleeve Logo Jersey, S                         Jerseys                                            Clothing   
+Long-Sleeve Logo Jersey, M                         Jerseys                                            Clothing   
+Long-Sleeve Logo Jersey, L                         Jerseys                                            Clothing   
+Long-Sleeve Logo Jersey, XL                        Jerseys                                            Clothing   
+Short-Sleeve Classic Jersey, S                     Jerseys                                            Clothing   
+Short-Sleeve Classic Jersey, M                     Jerseys                                            Clothing   
+Short-Sleeve Classic Jersey, L                     Jerseys                                            Clothing   
+Short-Sleeve Classic Jersey, XL                    Jerseys                                            Clothing   
+Women's Mountain Shorts, S                         Shorts                                             Clothing   
+Women's Mountain Shorts, M                         Shorts                                             Clothing   
+Women's Mountain Shorts, L                         Shorts                                             Clothing   
+Men's Sports Shorts, S                             Shorts                                             Clothing   
+Men's Sports Shorts, M                             Shorts                                             Clothing   
+Men's Sports Shorts, L                             Shorts                                             Clothing   
+Men's Sports Shorts, XL                            Shorts                                             Clothing   
+Mountain Bike Socks, M                             Socks                                              Clothing   
+Mountain Bike Socks, L                             Socks                                              Clothing   
+Racing Socks, M                                    Socks                                              Clothing   
+Racing Socks, L                                    Socks                                              Clothing   
+Women's Tights, S                                  Tights                                             Clothing   
+Women's Tights, M                                  Tights                                             Clothing   
+Women's Tights, L                                  Tights                                             Clothing   
+Classic Vest, S                                    Vests                                              Clothing   
+Classic Vest, M                                    Vests                                              Clothing   
+Classic Vest, L                                    Vests                                              Clothing   
+Hitch Rack - 4-Bike                                Bike Racks                                         Accessories
+All-Purpose Bike Stand                             Bike Stands                                        Accessories
+Water Bottle - 30 oz.                              Bottles and Cages                                  Accessories
+Mountain Bottle Cage                               Bottles and Cages                                  Accessories
+Road Bottle Cage                                   Bottles and Cages                                  Accessories
+Bike Wash - Dissolver                              Cleaners                                           Accessories
+Fender Set - Mountain                              Fenders                                            Accessories
+Sport-100 Helmet, Blue                             Helmets                                            Accessories
+Sport-100 Helmet, Red                              Helmets                                            Accessories
+Sport-100 Helmet, Black                            Helmets                                            Accessories
+Hydration Pack - 70 oz.                            Hydration Packs                                    Accessories
+Taillights - Battery-Powered                       Lights                                             Accessories
+Headlights - Dual-Beam                             Lights                                             Accessories
+Headlights - Weatherproof                          Lights                                             Accessories
+Cable Lock                                         Locks                                              Accessories
+Touring-Panniers, Large                            Panniers                                           Accessories
+Minipump                                           Pumps                                              Accessories
+Mountain Pump                                      Pumps                                              Accessories
+Patch Kit/8 Patches                                Tires and Tubes                                    Accessories
+Mountain Tire Tube                                 Tires and Tubes                                    Accessories
+Road Tire Tube                                     Tires and Tubes                                    Accessories
+Touring Tire Tube                                  Tires and Tubes                                    Accessories
+LL Mountain Tire                                   Tires and Tubes                                    Accessories
+ML Mountain Tire                                   Tires and Tubes                                    Accessories
+HL Mountain Tire                                   Tires and Tubes                                    Accessories
+LL Road Tire                                       Tires and Tubes                                    Accessories
+ML Road Tire                                       Tires and Tubes                                    Accessories
+HL Road Tire                                       Tires and Tubes                                    Accessories
+Touring Tire                                       Tires and Tubes                                    Accessories
+
+(295 rows affected)
